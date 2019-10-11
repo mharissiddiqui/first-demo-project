@@ -2,4 +2,8 @@ hello
 
 how are you?
 
+<<<<<<< HEAD
 where are you?
+=======
+please update
+>>>>>>> c86538dbb99896178a844cca5692ac66760396a6
